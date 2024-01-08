@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Software Engineering Project
+
+Group Members
+Amedo Patrick
+Akua Frimpong
+Gakpetor Joshua Mawudem
+
+This here a simple web based user-friendly software designed to assist individuals in generating personalised business ideas, plans, and get information about the business industry, the minimum capital required and so on.
+The web based mobile responsive software was built with NEXTJs for the frontend, Node + ExpressJs for the backend, PostGres Database for the database and OpenAI’s free API was integrated to as the MAN (Artificial Intelligence) behind the generation of the business details.
+
 
 ## Getting Started
 
